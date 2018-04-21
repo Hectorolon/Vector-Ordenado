@@ -1,0 +1,10 @@
+C:\Users\hrolo\source\repos\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.csprojResolveAssemblyReference.cache
+C:\Users\hrolo\source\repos\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.Form1.resources
+C:\Users\hrolo\source\repos\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.Properties.Resources.resources
+C:\Users\hrolo\source\repos\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.csproj.GenerateResource.Cache
+C:\Users\hrolo\source\repos\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.csproj.CoreCompileInputs.cache
+C:\Users\hrolo\source\repos\VectorOrdenado\VectorOrdenado\bin\Debug\VectorOrdenado.exe.config
+C:\Users\hrolo\source\repos\VectorOrdenado\VectorOrdenado\bin\Debug\VectorOrdenado.exe
+C:\Users\hrolo\source\repos\VectorOrdenado\VectorOrdenado\bin\Debug\VectorOrdenado.pdb
+C:\Users\hrolo\source\repos\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.exe
+C:\Users\hrolo\source\repos\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.pdb
